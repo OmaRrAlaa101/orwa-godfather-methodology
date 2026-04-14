@@ -14,10 +14,6 @@ It is organized as a practical recon and exploitation reference covering topics 
 
 - [orwa_methodology.md](orwa_methodology.md) - the core methodology write-up
 
-## Other Notes
-
-The repository also includes supporting notes and drafts in plain text, Word documents, and OneNote exports that expand on specific testing techniques.
-
 ## How to Use
 
 1. Start with `orwa_methodology.md` for the full workflow.
